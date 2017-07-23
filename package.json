@@ -1,0 +1,16 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "CLI.js",
+  "scripts": {
+    "test": "cli"
+  },
+  "author": "Saveliy Samoylov",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^3.2.0",
+    "weather-js": "^2.0.0"
+  }
+}
